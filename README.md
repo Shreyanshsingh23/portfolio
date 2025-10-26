@@ -1,4 +1,4 @@
-# Sahil Negi - Portfolio Website
+# Shreyansh Singh Gautam - Portfolio Website
 
 A modern, interactive portfolio website showcasing my work as a Software Engineer and Competitive Programmer.
 
@@ -60,13 +60,14 @@ Update your information in `lib/data.ts`:
 
 ```typescript
 export const personalInfo = {
-  name: "Your Name",
+  name: "Shreyansh Singh Gautam",
+  email: "shreyanshrewa@gmail.com",
   // ... other fields
 };
 
 export const skills = {
-  languages: ["Your", "Languages"],
-  specializations: ["Your", "Specializations"],
+  languages: ["Python", "Go", "Java", "JavaScript", "C++"],
+  specializations: ["AI/ML", "Backend", "Competitive Programming"],
 };
 ```
 
@@ -76,11 +77,16 @@ export const skills = {
 2. Place it in `public/resume.pdf`
 3. The "Get Resume" button will automatically link to it
 
+**Note:** Currently contains a placeholder. Replace `public/resume.pdf` with your actual resume.
+
 ## 🔗 Links
 
 - Live Site: [Coming Soon]
-- GitHub: [Your GitHub]
-- LinkedIn: [Your LinkedIn]
+- GitHub: [@shreyanshsingh23](https://github.com/shreyanshsingh23)
+- LinkedIn: [Shreyansh Singh Gautam](https://www.linkedin.com/in/shreyanshsingh23)
+- Twitter: [@ShreyanshSing23](https://x.com/ShreyanshSing23)
+- Codeforces: [shreyanshsingh23](https://codeforces.com/profile/shreyanshsingh23)
+- CodeChef: [shreyanshsingh23](https://www.codechef.com/users/shreyanshsingh23)
 
 ## 📄 License
 
